@@ -12,4 +12,4 @@ Conforme apresentado na figua abaixo, as camadas são utilizadas para uma arquit
 
 ![alt text](img/logical_layers.png)
 
-Esse projeto foi desenvolvido a partir das aulas do curso de Java na Udemy, do professor Nélio alves.
+Esse projeto foi desenvolvido a partir das aulas do curso de Java na Udemy, do professor Nélio Alves.
